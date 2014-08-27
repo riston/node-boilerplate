@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Created by http://www.gitignore.io
 
 ### Node ###
+=======
+>>>>>>> bb9b5af0f69d538922e826f29173b0a27f66d948
 # Logs
 logs
 *.log
@@ -23,9 +26,15 @@ coverage
 build/Release
 
 # Dependency directory
+<<<<<<< HEAD
 # Commenting this out is preferred by some people, see
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
 node_modules
 
 # Users Environment Variables
 .lock-wscript
+=======
+# Deployed apps should consider commenting this line out:
+# see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
+node_modules
+>>>>>>> bb9b5af0f69d538922e826f29173b0a27f66d948
