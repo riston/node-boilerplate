@@ -1,6 +1,6 @@
 # Node boilerplate
 
-Simple boilerplate project to start TDD in node.
+Simple boilerplate project to start testing with Mocha in node.
 
 ## Install
 
